@@ -1,2 +1,2 @@
 # Image To Sketch
-Converts an image (JPG, PNG, Etc.) to a sketch-like version of the picture.
+Converts an image (JPG, PNG, Etc.) to a sketch-like version of the picture using opencv2.
